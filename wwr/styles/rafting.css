@@ -1,8 +1,8 @@
 :root {
-    --primary-color: #006086;
-    --secondary-color: #696f86; 
-    --accent1-color: #035ba8; 
-    --accent2-color: #404047;
+    --primary-color: #0baff0;
+    --secondary-color: #6074c6; 
+    --accent1-color: #00396b; 
+    --accent2-color: #232326;
     --heading-font: "Open Sans", open-sans;
     --body-font: "Roboto", roboto;
 }
@@ -24,7 +24,7 @@ header {
 nav {
     display: flex;
     justify-content: space-between;
-    background-color: var(--secondary-color);
+    background-color: rgb(211, 222, 236);
     flex-wrap: wrap;
     padding: 20px;
     grid-area: 1/3/1;
@@ -43,7 +43,7 @@ header, main, footer {
 
 h1, h2 {
     font-family: var(--heading-font);
-    color: var(--primary-color);
+    color: black;
 }
 
 nav, p, section, article {
