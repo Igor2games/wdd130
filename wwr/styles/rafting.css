@@ -89,7 +89,8 @@ nav, p, section, article {
     opacity: 0.7;
     padding: 16px;
     background-color: var(--accent1-color);
-    color: white
+    color: white;
+    border-radius: 50%;
 }
 
 .history {
@@ -124,6 +125,7 @@ article {
     color: black;
     box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.5);
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    border-radius: 5%;
 }
 
 .hero article img {
