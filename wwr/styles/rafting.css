@@ -99,7 +99,7 @@ article {
     width: 100%;
     opacity: 0.7;
     padding: 16px;
-    background-color: rgb(7, 48, 65);
+    background-color: rgb(6, 49, 70);
     color: rgb(255, 255, 255);
     border-radius: 0.5rem;
 }
@@ -340,5 +340,5 @@ button:hover {
 }
 
 .column3 {
- display: flex;
+    display: flex;
 }
